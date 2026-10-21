@@ -1,0 +1,8 @@
+{
+  "name": "dailypost-news-portal",
+  "version": "1.0.0",
+  "description": "DAILYPOST online news portal using Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "mongodb": "^6.12.0" }
+}
